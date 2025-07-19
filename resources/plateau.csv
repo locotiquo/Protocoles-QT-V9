@@ -1,0 +1,136 @@
+﻿Theme;Motif;CHU;HPSM;Le Parc;Misericorde
+neuro;alteration de la conscience/ COMA;x;;;
+neuro;confusion/désorientation;x;;;xPA
+neuro;etourdissement/vertiges;x;;;xPA
+neuro;céphalées;x;;;
+neuro;convulsions;x;;;
+neuro;anomalie de la marche/ ataxie/trouble de l'equilibre;x;;;xPA
+neuro;tremblements;x;;;
+neuro;signes d'avc;x;;;
+neuro;faiblesse ou deficit d'un membre;x;;;xPA
+neuro;trouble de la sensibilité/paresthésies;x;;;xPA
+neuro;aggravation des troubles cognitifs;x;;;xPA
+cardio;arret cardio respiratoire;x;;;
+cardio;douleur thoracique;x;x;;
+cardio;palpitations;x;x;x;x
+cardio;hypertension;x;x;x;x
+cardio;hypotension/collapasus;x;;;
+cardio;malaise SANS perte de connaissance;x;x;x;xSCG
+cardio;malaise AVEC perte de connaissance;x;x;;xSCG
+cardio;Oedeme des membres inférieurs;x;x;x;x
+respiratoire;toux;x;x;x;x
+respiratoire;asthme/reaction allergique;x;;;x
+respiratoire;pneumothorax;x;;;
+respiratoire;dyspnée;x;;;
+respiratoire;dyspnée sans détresse respiratoire;;;;x
+respiratoire;cyanose;x;;;
+respiratoire;hémoptysie;x;;;
+respiratoire;corps étranger voies aériennes;x;;;
+gastro enterologie;douleur abdominale;x;x;x;
+gastro enterologie;douleur abdominale sans defense; ;;;x
+gastro enterologie;corps étranger voies digestive hautes et basse;x;x;x;
+gastro enterologie;inapetence/perte d'appetit;x;;;x
+gastro enterologie;constipation;x;x;x;x
+gastro enterologie;diarrhée;x;x;x;x
+gastro enterologie;nausées/vomissement;x;x;x;x
+gastro enterologie;proctologie;x;x;x;
+gastro enterologie;hématémèse;x;;;
+gastro enterologie;méléna;x;x;x;
+gastro enterologie;rectorragie;x;x;x;
+gastro enterologie;ictère;x;x;x;
+gastro enterologie;hoquet persistant;x;x;x;x
+gastro enterologie;masse abdominale/distension abdominale;x;x;x;
+genito-urinaire;douleur fosse lombaire;x;x;x;x
+genito-urinaire;ecoulement/lesion genitale;x;x;x;x
+genito-urinaire;douleur/oedeme des orgaes genitaux externe;x;x;x;x
+genito-urinaire;hematurie;x;x;x;x
+genito-urinaire;rétention d'urine;x;x;x;x
+genito-urinaire;anurie;x;x;x;x
+genito-urinaire;signes d'infection urinaire/dysurie;x;x;x;x
+ORL;otalgie;x;x;x;x +16
+ORL;corps étranger;x;x;x;
+ORL;troubles de l'audition/acouphenes;x;x;x;
+ORL;otorrhée/otorragie;x;x;x;x+16
+ORL;probleme dentaire;x;x;x;x
+ORL;douleur gorge/gingivale;x;x;x;x
+ORL;tumefaction (ganglionnaire…);x;x;x;
+ORL;epistaxis;x;x;x;x
+ORL;congestion nasale;x;x;x;x
+ORL;tumeur ORL/complication de traitement;x;;x;
+ophtalmo;douleur occulaire;x;x;x;x
+ophtalmo;corps étranger/brulure occulaire;x;x;x;x
+ophtalmo;trouble visuel/diplopie/baisse acuite visuelle;x;;;
+ophtalmo;demangeaisons/rougeur;x;x;x;x
+rhumatologie;douleur rachidienne(cervicale, dorsale, lombaire);x;x;x;x
+rhumatologie;douleur non traumatique;x;x;x;x
+rhumatologie;epanchement articulaire;x;x;x;x
+rhumatologie;douleur générale, sans précision;x;x;x;x
+traumatologie;demarbrasion/plaie;x;x;x;x
+traumatologie;trama cranien SANS perte de connaissance;x;x;x;x
+traumatologie;trauma cranien AVEC perte de connaissance;x;;;
+traumatologie;trauma cervical hors rachis;x;;x;x
+traumatologie;traumatisme maxillo-facial;x;;;
+traumatologie;trauamtisme occulaire;x;;;
+traumatologie;traumatisme rachidien SANS trouble neurologique;x;x;x;x
+traumatologie;traumatisme rachidien AVEC trouble neurologique;x;;;
+traumatologie;traumatisme thoracique SANS trouble respiratoire;x;x;x;x
+traumatologie;traumatisme thoracique AVEC trouble respiratoire;x;;;
+traumatologie;tramatisme abdominal/pelvien/périnéal;x;;;
+traumatologie;traumatisme organes genitaux externes;x;x;x;
+traumatologie;traumatisme d'un membre sup ou inf;x;x;x;x
+traumatologie;traumatisme de la main;x;x;;x
+traumatologie;amputation;x;;;
+traumatologie;polytraumatisme;x;;;
+teguments;morsures/piqures;x;x;x;x
+teguments;brulures -10%/ dermarbrasion/plaie;x;x;x;x
+teguments;prurit;x;x;x;x
+teguments;oedeme/rougeur localiser/abcès;x;x;x;x
+teguments;contusion/tuméfaction/ampoules;x;x;x;x
+teguments;parasitose;x;x;x;x
+teguments;corps étranger sous cutané;x;x;x;x
+teguments;erytheme étendu/éruption cutanées;x;x;x;x
+teguments;hématome non traumatique;x;;x;
+gynecologie;problemes menstruations;x;x;x;
+gynecologie;corps étranger vaginal;x;x;x;
+gynecologie;pertes vaginales;x;x;x;x
+gynecologie;rougeur/tension mammaire;x;x;x;
+gynecologie;méno-métrorragies en dehors de la grossesse;x;x;x;
+gynecologie;douleur pelvienne;x;x;x;
+gynecologie;agression sexuelle/sevices;x;;;
+obstetrique;problème lié à la grossesse;x;;x;
+obstetrique;accouchement imminent ou réalisé;x;;x;
+obstetrique;problème lié au post partum;x;;x;
+pediatrie medicale;troubles alimentaires du nourisson -6mois;x;;;
+pediatrie medicale;ictere neonatal;x;;;
+pediatrie medicale;pleurs incoercibles;x;;;
+pediatrie medicale;sifflement respiratoires sans autres symptomes;x;;;
+pediatrie medicale;convulsion hyperthermique;x;;;
+pediatrie medicale;diarrhée du nourisson -6mois;x;;;
+pediatrie medicale;fievre -3mois;x;;;
+psychiatrie;anxiete/angoisse/spasmophilie;x;x;x;x
+psychiatrie;insomnies/troubles du sommeil;x;x;x;x
+psychiatrie;depression/idées suicidaires;x;;;
+psychiatrie;hallucinations;x;;;xPA
+psychiatrie;troubles du comportement/agitation/violences;x;;;
+psychiatrie;anorexie;x;;;xPA
+psychiatrie;etat anxio depressif de la personne agée;;;;x
+intoxications;intoxications NON volontaires (accidentelles/iatrogene);x;;;
+intoxications;intoxication volontaire;x;;;
+intoxications;etat de manque/sevrage/toxicomanie;x;;;
+intoxications;ebriété/ivresse;x;;;
+intoxications;ivresse SANS agitations;;;;x
+général;conseil/consultation/pansement;x;x;x;x
+général;AES ou autre liquide bio;x;x;x;x
+général;probleme de materiel médical (fonction suivi patient);x;x;x;x
+général;complication post opératoire (fonction suivi patient);x;x;x;x
+général;soins palliatifs/fin de vie (fonction suivi patient);x;x;x;x
+général;exposition a une maladie contagieuse;x;;;
+général;fièvre;x;;;x
+général;hper ou hypo glycémie;x;;;xPA
+général;asthenie/AEG/perte d'autonomie;x;;;
+général;probleme social;x;;;x
+général;examen à des fins administratives / certificat;x;x;x;x
+général;anomalie de resultats biologique;x;x;x;
+environnemental;gelures/lésion liées au froid;x;;;x
+environnemental;hypothermie;x;;;
+environnemental;coup de chaleur/insolation;x;x;x;x

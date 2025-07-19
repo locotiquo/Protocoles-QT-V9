@@ -1,0 +1,118 @@
+/* --- Polices et Couleurs globales --- */
+QWidget {
+    font-family: "Segoe UI", "Arial", sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+/* --- QLineEdit --- */
+QLineEdit {
+    padding: 1px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    background-color: #fefefe;
+}
+
+QLineEdit:focus {
+    border: 1px solid #80bdff;
+    background-color: #ffffff;
+}
+
+QPushButton {
+    background-color: #007bff;
+    color: white;
+    padding: 2px 10px;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #0056b3;
+}
+
+QPushButton:pressed {
+    background-color: #003f7f;
+}
+
+/* --- QLabel --- */
+QLabel {
+    color: #343a40;
+}
+
+/* --- QTreeView --- */
+QTreeView {
+    background-color: #ffffff;
+    alternate-background-color: #f1f3f5;
+    border: 1px solid #dee2e6;
+}
+
+QTreeView::item {
+    padding: 4px;
+}
+
+QTreeView::item:selected {
+    background-color: #3399FF;
+    color: white;
+}
+
+QHeaderView::section {
+    background-color: #e9ecef;
+    color: #212529;
+    padding: 2px;
+    border: 1px solid #dee2e6;
+    font-weight: bold;
+}
+
+/* --- QTabWidget --- */
+QTabWidget::pane {
+    border: 1px solid #dee2e6;
+    padding: 6px;
+}
+
+QTabBar::tab {
+    background: #dee2e6;
+    border: 1px solid #ccc;
+    padding: 3px 20px;
+    margin: 1px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+QTabBar::tab:selected {
+    background: #ffffff;
+    border-bottom-color: transparent;
+}
+
+/* --- QMenuBar et QMenu --- */
+QMenuBar {
+    background-color: #f8f9fa;
+    color: #212529;
+    font-weight: bold;
+}
+
+QMenuBar::item {
+    background: transparent;
+    padding: 6px 12px;
+}
+
+QMenuBar::item:selected {
+    background: #e2e6ea;
+    color: #000;
+}
+
+/* Menu déroulant */
+QMenu {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    padding: 4px;
+}
+
+QMenu::item {
+    padding: 6px 20px;
+    background-color: transparent;
+}
+
+QMenu::item:selected {
+    background-color: #007bff;
+    color: white;
+}

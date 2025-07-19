@@ -1,0 +1,72 @@
+[
+  {
+    "motif": "AVC",
+    "questions": ["Depuis quand ?", "Mobilité d’un membre ?", "Trouble de la parole ?", "Céphalées ?", "ATCD AVC ?", "Traitement anticoagulant ?"],
+    "signes_alerte": ["Déficit moteur", "Trouble de conscience", "Trouble de la parole", "Céphalées brutales", "Vomissements"]
+  },
+  {
+    "motif": "Crise convulsive",
+    "questions": ["Durée ?", "Conscience retrouvée ?", "ATCD d’épilepsie ?", "Traumatismes associés ?", "Prise de traitement ?", "Fièvre ?"],
+    "signes_alerte": ["Crise prolongée >5min", "Pas de récupération", "Blessure pendant la crise", "Respiration anormale post-crise"]
+  },
+  {
+    "motif": "Douleur thoracique",
+    "questions": ["Depuis quand ?", "Douleur à l’effort ?", "Irradiation ?", "Douleur au repos ?", "Essoufflement associé ?", "ATCD cardiaque ?"],
+    "signes_alerte": ["Douleur constrictive", "Pâleur", "Malaise", "Trouble du rythme", "Difficultés respiratoires"]
+  },
+  {
+    "motif": "Dyspnée",
+    "questions": ["Depuis quand ?", "Allongé ou à l’effort ?", "Antécédents respiratoires ?", "Toux ?", "Fièvre ?", "Douleur thoracique ?"],
+    "signes_alerte": ["Tirage", "Cyanose", "Fréquence respiratoire élevée", "Agitation", "Inconscience"]
+  },
+  {
+    "motif": "Douleur abdominale",
+    "questions": ["Depuis quand ?", "Localisation ?", "Fièvre ?", "Vomissements ?", "Transit (gaz/selles) ?", "ATCD chirurgicaux ?"],
+    "signes_alerte": ["Douleur brutale", "Ventre dur", "Signe de choc", "Vomissements sanglants", "Pâleur"]
+  },
+  {
+    "motif": "Hémorragie",
+    "questions": ["Depuis quand ?", "Quantité estimée ?", "Cause identifiée ?", "Traitement anticoagulant ?", "Localisation ?", "Saignement actif ?"],
+    "signes_alerte": ["Hémorragie abondante", "Trouble de conscience", "Pâleur", "Hypotension", "Tachycardie"]
+  },
+  {
+    "motif": "Brûlure",
+    "questions": ["Cause ?", "Surface touchée ?", "Localisation ?", "Type de produit/agent ?", "Temps d’exposition ?", "Douleur ?"],
+    "signes_alerte": ["Brûlure étendue", "Brûlure des voies aériennes", "Atteinte du visage ou périnée", "Signe d’inhalation", "Ampoules importantes"]
+  },
+  {
+    "motif": "Traumatisme crânien",
+    "questions": ["Conscience ? (perte de connaissance ?)", "Amnésie ?", "Vomissements ?", "Traitement anticoagulant ?", "Traumatisme associé ?", "Céphalées ?"],
+    "signes_alerte": ["Trouble de conscience", "Vomissements répétés", "Somnolence", "Saignement oreille/ne", "Déformation du crâne"]
+  },
+  {
+    "motif": "Fièvre chez enfant",
+    "questions": ["Âge ?", "Température ?", "Depuis quand ?", "Comportement (réactif ?) ?", "Autres symptômes (toux, diarrhée...) ?", "Traitement donné ?"],
+    "signes_alerte": ["Âge <3 mois", "Convulsions", "Inconsolable", "Coloration anormale", "Respiration rapide"]
+  },
+  {
+    "motif": "Accouchement",
+    "questions": ["Nombre de SA ?", "Contractions ?", "Fréquence ?", "Perte des eaux ?", "Saignement ?", "Accouchements précédents ?"],
+    "signes_alerte": ["Expulsion imminente", "Saignement important", "Douleur brutale", "Pas de mouvement fœtal", "Présentation anormale"]
+  },
+  {
+    "motif": "Malaise",
+    "questions": ["Conscience retrouvée ?", "Durée ?", "Circonstances ?", "Diabète ?", "Prise de médicaments ?", "Douleur associée ?"],
+    "signes_alerte": ["Trouble de conscience persistant", "Signes neurologiques", "Pâleur", "Hypotension", "Douleur thoracique"]
+  },
+  {
+    "motif": "Intoxication",
+    "questions": ["Produit ingéré/inhalé ?", "Quantité ?", "Heure de l’ingestion ?", "Volontaire ou accidentelle ?", "Âge/poids ?", "Conscience ?"],
+    "signes_alerte": ["Trouble de conscience", "Vomissements incoercibles", "Convulsions", "Signes respiratoires", "Produit inconnu"]
+  },
+  {
+    "motif": "Plaie",
+    "questions": ["Localisation ?", "Taille ?", "Objet responsable ?", "Saignement ?", "Vaccin tétanos ?", "Mécanisme ?"],
+    "signes_alerte": ["Plaie profonde", "Atteinte articulaire ou tendineuse", "Saignement abondant", "Contamination importante"]
+  },
+  {
+    "motif": "Traumatisme membre",
+    "questions": ["Mécanisme ?", "Douleur ?", "Mobilité conservée ?", "Déformation ?", "Fourmillements ?", "Saignement ?"],
+    "signes_alerte": ["Déformation majeure", "Impotence fonctionnelle", "Troubles vasculaires ou neurologiques", "Saignement actif"]
+  }
+]

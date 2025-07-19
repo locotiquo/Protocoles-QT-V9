@@ -1,0 +1,94 @@
+﻿Item;Motif;Complement;P;Tri
+autre;accident electrique;sans sdg;P1;MRU
+traumato;accident voie publique;VL, PL, pieton, 2 roues, sans SDG;P1;MRU
+cardio;bradycardie;<40 mal toléré;P1;MRU
+dermato;brulure;10-30% ou circonferentielle, ou thorax ou enfant;P1;MRU
+neuro;cephalées brutale ;;P1;MRU
+traumato;chute a domicile;3-6m, sans SDG;P1;MRU
+neuro;crise convulsive;résolutive en post critique;P1;MRU
+cardio;defibrilateur;au moins 1 choc;P1;MRU
+autre;demande de smur;par vecteur ou discussion smur par un medecin;P1;MRU
+neuro;deficit neurologique;moins de 24h;P1;MRU
+pneumo;detresse respiratoire;avec SDG;P1;MRU
+cardio;douleur thoracique;>25 ans ou ATCD notable ou SDG;P1;MRU
+pneumo;dyspnée;caractérisée, post traumtique;P1;MRU
+intox;envenimation;;P1;MRU
+infectieux;fievre isolée;mal tolérée/avec SDG;P1;MRU
+gyneco;grossesse;spia>10 ou malinas>5, ou douleur abdo importante, ou saignement;P1;MRU
+traumato;hemmoragie;abondante;P1;MRU
+endocrino;hypoglycemie;avec troubles de la conscience;P1;MRU
+cardio;hypotension;ta <9;P1;MRU
+intox;intoxycation aigue;volontaire ou non, sans SDG;P1;MRU
+neuro;malaise;sans récupération ou avec SDG ou du nourisson;P1;MRU
+traumato;morsure;visage/cou ou avec sdg;P1;MRU
+autre;noyade;satde 2;P1;MRU
+cardio;palpitations/tachycardie;>150 mal toléré;P1;MRU
+traumato;plaie pénétrante;sans SDG;P1;MRU
+psy;risque suicidaire;imminent;P1;MRU
+traumato;section;doigts/orteil;P1;MRU
+traumato;trauma violent axial;face/cou/tronc sans SDG;P1;MRU
+neuro;troubles de la conscience/deficit neuro;moins de 24h;P1;MRU
+ophtalmo;urgence ophtalmologique;trauma important, cecité avec SDG;P1;MRU
+neuro;vertiges important;inaugural;P1;MRU
+psy;agitation aigue;avec risque hétéro et/ou auto-agressif;P2;MRU
+cardio;bradycardie;<40, bien tolérée;P2;MRU
+dermato;brulure;5-10%, ne repondant pas au P0 et P1;P2;MRU
+traumato;chute a domicile;sans sdg;P2;MRU
+gastro;corps etranger ;ingerer sans sdg;P2;MRU
+décés;decouverte de corps sur la voie publique;;P2;MRU
+neuro;deficit neuro;depuis >24h;P2;MRU
+psy;délires/hallucinations;;P2;MRU
+gyneco;grossesse;hémorragie sans SDG, hta  >14/9;P2;MRU
+gastro;hemorragie digestive/hemoptysie;faible abondance, sans SDG;P2;MRU
+psy;hospitalisation sous contrainte;psy;P2;MRU
+intox;ivresse voie publique;avec trouble de la conscience;P2;MRU
+neuro;malaise;avec recuperation ad integrum sans SDG;P2;MRU
+neuro;malaise sur voie publique ou lieux publics;;P2;MRU
+pneumo;noyade ;stade 1, aquastress;P2;MRU
+cardio;palpitations/tachycardie;>150, bien toléré;P2;MRU
+uro;retantion aigue d'urine, problematique materiel uro;;P2;MRU
+orl;adenopathie;;P2;mrl
+intox;AES;;P2;mrl
+autre;ajustement thérapeutique;;P2;mrl
+dermato;Allergie communes;hors oedeme de la face, dyspnée, malaise, signes digestif;P2;mrl
+traumato;Arthralgie, douleur de membre;;P2;mrl
+pneumo;asthme/dyspnée;peu compter jusqu’à 5;P2;mrl
+cardio;Bradycardie;bien tolérée;P2;mrl
+dermato;brulure isolée;<5% surface corporelle, non circonf;P2;mrl
+neuro;céphalées chroniques;;P2;mrl
+traumato;chute a domicile;patient relevé sans plainte;P2;mrl
+uro;colique nephretique;avérée ou suspectée;P2;mrl
+gastro;constipation;;P2;mrl
+psy;crise d'angoisse;;P2;mrl
+décés;deces attendu;au domicile, attendu ou non en institution;P2;mrl
+endocrino;diabete;SDG;P2;mrl
+gastro;diarrhée;;P2;mrl
+gastro;douleur abdominale;non traumatique, sans SDG;P2;mrl
+orl;douleur dentaire;;P2;mrl
+cardio;douleur thoracique;non traumatique, <25 ans SDG;P2;mrl
+orl;epistaxys;bien tolérée;P2;mrl
+autre;erreur de traitement;;P2;mrl
+dermato;eruption cutané;sauf purpura;P2;mrl
+intox;fievre isolée;;P2;mrl
+uro;hematurie;;P2;mrl
+traumato;hemmorragie;digestive basse, bien tolérée;P2;mrl
+uro;infection urinaire;;P2;mrl
+neuro;malaise ;avec recuperation, sans sdg;P2;mrl
+autre;maltraitance, violence;;P2;mrl
+traumato;morsure; sans SDG;P2;mrl
+orl;otalgie;;P2;mrl
+neuro;paresthesies;;P2;mrl
+gyneco;pathologies simple de la grossesse;;P2;mrl
+ophtalmo;pathologique ophtalmique;chronique ou sans sdg;P2;mrl
+traumato;petite traumatologie;;P2;mrl
+traumato;plaie;sans sdg;P2;mrl
+pedia;pleurs du nourisson;;P2;mrl
+cardio;poussée hypertensive;SDG;P2;mrl
+endocrino;prise de sang;anomalies bilan sanguin;P2;mrl
+traumato;rachialgies;lombalgies, sciatique….;P2;mrl
+psy;soins psychiatrique;avec consentement sans dangerosité ou menace;P2;mrl
+infectieux;syndrome grippal/ infection;bien tolérée;P2;mrl
+cardio;tachycardie;100-150, bien toléré;P2;mrl
+traumato;traumatisme cranien;sans trouble de la conscience ou deficit neurologique;P2;mrl
+neuro;vertiges;sans signes de localisation;P2;mrl
+gastro;vomissement;hors étiologie neurologique évidente;P2;mrl
