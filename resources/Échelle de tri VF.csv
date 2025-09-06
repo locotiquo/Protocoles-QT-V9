@@ -1,0 +1,159 @@
+﻿;;;;;;;;;;;;;;;;;;;;;;;;;;
+; TABLEAU 1 : ORIENTATION DES APPELS ARM au SAMU-SAS ;;;;;le tri médian est coloré;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;TRI N1;;TRI N2 MRU / MRG;;;;;;;;;;;;;;;;;;;;;;;
+MOTIFS;;P0;P1 ;P2 MRU;P2 MRG;P3 MRG;P4;;;;;;;;;;;;;;;;;;;
+PATHOLOGIE ABDOMINALE NON TRAUMATIQUE;;;;;;;;;;;;;;;;;;;;;;;;;;
+Vomissement de sang / Hématémèse;AMU/SNP;;Malaise/hypotension ;;filet de sang dans vomissement, sans autre signe;;;;;;;;;;;;;;;;;;;;;
+Rectorragie;AMU/SNP;;Malaise/hypotension ;;sans signe de gravité; sur hémorroides;;;;;;;;;;;;;;;;;;;;
+Douleur abdomino pelvienne;AMU/SNP;;Douleur epigastrique brutale;Echelle douleur > 5 avec antalgique pris ou >8 sans antalgique ;;;;;;;;;;;;;;;;;;;;;;
+Problème technique (stomie ou post op recent);AMU/SNP;;;si gastrostomie arrachée ou pyélostomie arrachée  ;;;;;;;;;;;;;;;;;;;;;;
+Hernie, Masse ou distention;SNP;;;irréductible ou vomissements;;;;;;;;;;;;;;;;;;;;;;
+CE dans l'œsophage, estomac, intestin;AMU/SNP;;Pile bouton ;Symptomatique , 2 aimants, objet tranchant ou pointu;;;;;;;;;;;;;;;;;;;;;;
+Constipation;SNP;;;;"vomissements
+";;non algique, depuis moins de 48H;;;;;;;;;;;;;;;;;;;
+Vomissement  ;AMU/SNP;;hypotonie + vomissements itératifs   et ou TC;" patient diabétique insulinodépendant/ céphalées
+";"vomissements répétés 
+"; fièvre;Conseil réhydratation, enfant de plus de deux ans;;;;;;;;;;;;;;;;;;;
+Diarrhée ;AMU/SNP;;hypotonie + diarrhées répétées;;"une  selle par heure ou plus
+"; fièvre;> 2 ans;;;;;;;;;;;;;;;;;;;
+Douleur anale;SNP;;;;;;Echelle douleur  <3;;;;;;;;;;;;;;;;;;;
+Hocquet;SNP;;;;;;;;;;;;;;;;;;;;;;;;;
+GENITO URINAIRE;;;;;;;;;;;;;;;;;;;;;;;;;;
+Douleur de la fosse lombaire/du flanc;AMU/SNP;;;Echelle douleur > 5 avec antalgique pris ou >8 sans antalgique /fievre;;;;;;;;;;;;;;;;;;;;;;
+Rétention d'urine/anurie;AMU/SNP;;;Echelle douleur > 5 avec antalgique pris ou >8 sans antalgique ;;;;;;;;;;;;;;;;;;;;;;
+"Douleur testiculaire
+";AMU/SNP;;;brutale, eva > 5, ou malaise et vomissements associés;;;;;;;;;;;;;;;;;;;;;;
+Dysfonction de sonde urinaire / sonde JJ / stomie ;AMU/SNP;;;Echelle douleur > 5 avec antalgique pris ou >8 sans antalgique ;;;;;;;;;;;;;;;;;;;;;;
+Hématurie;AMU/SNP;;abondante + Malaise/hypotension;saignement abondant actif ;;;;;;;;;;;;;;;;;;;;;;
+Dysurie / brûlure mictionnelle / infection unrinaire;SNP;;;;fievre;;;;;;;;;;;;;;;;;;;;;
+Corps étranger périnéal;SNP;;;;Douleur importante;;;;;;;;;;;;;;;;;;;;;
+Ecoulement ou lésion cutanéo-muqueuse génitale;SNP;;;;;avec fièvre;;;;;;;;;;;;;;;;;;;;
+GYNECO-OBSTETRIQUE;;;;;;;;;;;;;;;;;;;;;;;;;;
+Menace d'accouchement (faire préciser le terme)/contractions/perte de liquide;AMU;;contractions très rapprochées ( < 5min), saignement,envie de pousser,  appelant affolé;;;;;;;;;;;;;;;;;;;;;;;
+Accouchement avec bébé né ou tête à la vulve;AMU;;;;;;;;;;;;;;;;;;;;;;;;;
+Pathologie de la grossesse ;AMU/SNP;;saignements importants, HTA, cephalées assocées, douleur abdo importantes , convulsions;;;;;;;;;;;;;;;;;;;;;;;
+Méno-métrorragie;AMU/SNP;;saignement abondant avec trouble de la conscience, grossesse 3° trimestre;saignement abondant actif, femme enceinte;;;;;;;;;;;;;;;;;;;;;;
+Problème de post partum (allaitement...) ;SNP;;;;;SI douleur ou fièvre;;;;;;;;;;;;;;;;;;;;
+PEDIATRIE ;;;;;;;;;;;;;;;;;;;;;;;;;;
+Fièvre ou hypothermie;AMU/SNP;;Si hypotonie, purpura,comportement anormal, cyanose;< 3mois;;;> 2 ans;;;;;;;;;;;;;;;;;;;
+Convulsion hyperthermique;AMU/SNP;;convulsion en cours, purpura, mauvaise récupération;récupération complète, première crise;récupération complète avec enfant aux antécédents de convulsions et parents non affolés;;;;;;;;;;;;;;;;;;;;;
+Diarrhée / vomissements du nourrisson (≤ 24 mois);AMU/SNP;;hypotonie ;<3 mois;;;;;;;;;;;;;;;;;;;;;;
+NRS de moins de 3 mois;AMU/SNP;;hypotonie, purpura;;; œil rouge, constipation, problème de lait,  problème de cordon ;;;;;;;;;;;;;;;;;;;;
+Hypothermie;AMU;;hypotonie, marbrure;<3 mois, refus alim, temp inf à 35;;;;;;;;;;;;;;;;;;;;;;
+Hypotonie, marbrures;AMU;;;;;;;;;;;;;;;;;;;;;;;;;
+Enfant inconsolable ;AMU/SNP;;;<3 mois / accès de paleur;;.;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;TRI N1;;TRI N2 MRU / MRG;;;;;;;;;;;;;;;;;;;;;;;
+AUTRES DEMANDES ;;;;;;;;;;;;;;;;;;;;;;;;;;
+MOTIFS;;P0;P1 ;P2 MRU;P2 MRG;P3 ;P4;;;;;;;;;;;;;;;;;;;
+    Hyperglycémie (dextro sup à 1,20g/l);AMU/SNP;; troubles de la conscience;vomissements et / ou dyspnée chez le diabètique insulinodépendant, ;;.;;;;;;;;;;;;;;;;;;;;
+Hypoglycémie (dextro < 0,7 g/l);AMU/ SNP;;  troubles de la conscience;propos incohérents, sueurs ;;;;;;;;;;;;;;;;;;;;;;
+Anomalie de résultat biologique (vérifier l'absence d'autres symptômes);AMU/ SNP;;;troponine, kaliemie,d-dimère;bilan sanguin de moins de 12H;;;;;;;;;;;;;;;;;;;;;
+fièvre ( T>38) âge > 2 ans;AMU/ SNP;;hypotonie, purpura, trouble de consicence;signe de mauvaise tolérance (cyanose des lèvres, marbrures);;;;;;;;;;;;;;;;;;;;;;
+Hypothermie( T<35) âge > 2 ans;AMU;;  troubles de la conscience;;;;;;;;;;;;;;;;;;;;;;;
+Hypotension artérielle (TAS<90 mmHg);AMU;;Troubles de la conscience;;;;;;;;;;;;;;;;;;;;;;;
+Anomalie des paramètres vitaux ( SaO2, Pls);AMU/SNP;;Trouble de conscience douleur tho, impossibilité de parler;40 < FC> 130  et sat < 85 %;;;;;;;;;;;;;;;;;;;;;;
+Coup de chaleur / insolation;AMU/SNP;;trouble de conscience douleur thoracique hypoTA;temp sup à 40 ;;;;;;;;;;;;;;;;;;;;;;
+Gelure / Lésions liées au froid;AMU/SNP;;;si hypothermie associée;;;;;;;;;;;;;;;;;;;;;;
+Allergie ;AMU /SNP;;œdème de la langue/face , œdème de Quincke, malaise, dyspnée, PAI, Adrénaline utilisée;;Urticaire isolé > 20 min sans ATCD allergie grave;allergie saisonnière ou chronique ;;;;;;;;;;;;;;;;;;;;
+Renouvellement ordonnance;SNP;;;;;;;;;;;;;;;;;;;;;;;;;
+Demande d'hébergement pour raison sociale;SNP;;;;;orientation 115;;;;;;;;;;;;;;;;;;;;
+Décès attendu/ rédaction d'un certificat de décès;SNP;;;; appel d'un soignant  dans une structure  ou  à domicile;;;;;;;;;;;;;;;;;;;;;
+Erreur de traitement;AMU/SNP;;Troubles conscience, Détresse respiratoire;cardiotropes;appel de soignant dans une strcuture sans élement de gravité ;;;;;;;;;;;;;;;;;;;;;
+impossibilité d'évaluer le patient au téléphone /appel panique;AMU;;;;;;;;;;;;;;;;;;;;;;;;;
+OPHTHALMOLOGIE;;;;;;;;;;;;;;;;;;;;;;;;;;
+Corps étranger / brûlure oculaire/ œil douloureux;AMU/SNP;; brûlure chimique ;; douleur intense récente;;;;;;;;;;;;;;;;;;;;;
+Démangeaison / œil rouge/ conjonctivite;SNP;;;;;;;;;;;;;;;;;;;;;;;;;
+ BAV/ Cécité ;AMU /SNP;;;brutale persistant;Déficit visuel régressif;;;;;;;;;;;;;;;;;;;;;
+ORL / STOMATOLOGIE;;;;;;;;;;;;;;;;;;;;;;;;;;
+Epistaxis;AMU /SNP;;Malaise/hypotension ;Epistaxis non controlée après manœuvres ;Epistaxis controlée sous anticoag, traumatique;;résolutive, non récidivante, non traumatique;;;;;;;;;;;;;;;;;;;
+Trouble de l'audition/accouphènes;SNP;;;;surdité brutale persitante, Vertige associé, , traumatique ;;;;;;;;;;;;;;;;;;;;;
+Corps étranger nez et oreilles;SNP;;;;;;;;;;;;;;;;;;;;;;;;;
+Pathologie de l'oreille / otite;SNP;;;;EN sup à 8 ou sup à5 si antalgiques donnés;;;;;;;;;;;;;;;;;;;;;
+affection ORL (Douleur déglutition / douleur gorge / douleur bouche / Obstruction nasale / rhinite / douleur sinus);AMU/SNP;;Malaise sur saignement post amygdalectomie;saignement post amygdalectomie;impossiblité d'alimentation;;;;;;;;;;;;;;;;;;;;;
+Pathologie dentaire  ;SNP;;;;;signes locaux importants, douleur résistante aux antalgiques,fievre;;;;;;;;;;;;;;;;;;;;
+DERMATO;;;;;;;;;;;;;;;;;;;;;;;;;;
+Affection cutanée;SNP;;;;;;suite de soins;;;;;;;;;;;;;;;;;;;
+Erythème étendu et autres éruptions / oèdeme spontané;AMU/SNP;;dyspnée à la parole, malaise; ATCD réaction allergique grave;;;;;;;;;;;;;;;;;;;;;;
+Morsure ;AMU/SNP;;morsure de serpent, signes généraux;;Nouveaux Animaux de Compagnie ;;;;;;;;;;;;;;;;;;;;;
+RESPIRATOIRE;;;;;;;;;;;;;;;;;;;;;;;;;;
+"Dyspnée /
+insuffisance respiratoire";AMU/SNP;;impossibilite de parler ou cyanose;impossible de finir une phrase,  tirage ;;;;;;;;;;;;;;;;;;;;;;
+Hémoptysie;AMU;;hémoptysie répétée ou abondante / cyanose ;;;;;;;;;;;;;;;;;;;;;;;
+Corps étranger voies aériennes (ingéré ou inhalé);AMU/SNP;;dyspnée à la parole, tirage, cyanose;;si corps étranger expulsé;;;;;;;;;;;;;;;;;;;;;
+Toux / bronchite;AMU/ SNP;;impossibilite de parler ou cyanose;impossible de finir une phrase,  tirage ;;;début des symptômes > 48h sans aggravation ;;;;;;;;;;;;;;;;;;;
+INFECTIEUX;;;;;;;;;;;;;;;;;;;;;;;;;;
+AES et/ou liquide biologique/ piqure en soirée;SNP;;;;sujet contact VIH avéré et exposition ≤ 48 heures;;;;;;;;;;;;;;;;;;;;;
+Exposition à une maladie contagieuse;AMU/SNP;;;gestion méningite, appel ARS;;;;;;;;;;;;;;;;;;;;;;
+RHUMATO;;;;;;;;;;;;;;;;;;;;;;;;;;
+"Douleur articulaire
+";SNP;;;;Fièvre, hyperalgie;;>3 jours, EN<4;;;;;;;;;;;;;;;;;;;
+CARDIO-CIRCULATOIRE;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arrêt cardiaque ;AMU;;;;;;;;;;;;;;;;;;;;;;;;;
+Jambe douloureuse;AMU/ SNP;;si associée à une dyspnée, douleur thoracique, perte de connaissance brève, paleur du membre, cyanose;;douleur mollet de retour de voyage / immobilisation/appel d'un soignant;;;;;;;;;;;;;;;;;;;;;
+"Douleur thoracique
+";AMU;;;< 25 ans, ss ATCD cardio; ;;;;;;;;;;;;;;;;;;;;;
+Malaise;AMU/SNP;;trouble de conscience persistant, perte de connaissance prolongée, déficit neurologique, détresse respiratoire, douleur thoracique associée;;< 25 ANS Sans ATCD cardio;;;;;;;;;;;;;;;;;;;;;
+Tachycardie;AMU/SNP;;FC ≥ 180 /min, TAS < 90 mmHg, douleur thoracique associée, Tr conscience, sueurs profuses;;< 25 ANS Sans ATCD cardio;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+MOTIFS;TRI N1;;TRI N2 AMU / MRG;;;;;;;;;;;;;;;;;;;;;;;
+;;P0;P1 ;P2 MRU;P2 MRG;P3 MRG;P4;;;;;;;;;;;;;;;;;;;
+Bradycardie;AMU;;FC < 40/min, TAS<90 mmHg, tr conscience, sueurs profuses;;;;;;;;;;;;;;;;;;;;;;;
+"Dysfonction stimulateur/
+défibrillateur cardiaque";AMU;;malaise ou nb CEE > 2;;;;;;;;;;;;;;;;;;;;;;;
+Œdème des membres inférieurs;AMU/SNP;;si associé à une dyspnée importante, douleur thoracique;;;;;;;;;;;;;;;;;;;;;;;
+Hypertension artérielle;AMU/SNP;;douleur thoracique;Grossesse/symptomatique;≥ 220 mmHg et non symptomatique ;;;;;;;;;;;;;;;;;;;;;
+INTOXICATION;;;;;;;;;;;;;;;;;;;;;;;;;;
+Intoxication médicamenteuse ou toxiques volontaires ;AMU/SNP;;Troubles conscience, Détresse respiratoire, Cardiotropes, prise récente (<1H);;IMV> 12 heures sans symptomes ;;;;;;;;;;;;;;;;;;;;;
+Intoxication non médicamenteuse;AMU/SNP;;troubles conscience, détresse respiratoire;produit identifé par ARM comme potentiellement toxique/ champignons;;Tableau digestif isolé après 2H alimentation (gastro entérite…);;;;;;;;;;;;;;;;;;;;
+Demande de sevrage / toxicomanie;SNP;;;agitation/ violence;"
+symptomes de manque";Ou filière spécifique addicto/psychiatrie;demande de sevrage de la part du patient ou sa famille;;;;;;;;;;;;;;;;;;;
+Comportement ébrieux / ivresse;AMU/SNP;;Trouble de conscience;Appel des forces de l’ordre, traumatisme associé, enfant, violence;;si circonstanciel  de consommation d'alcool évident et sans signe de traumatisme ;;;;;;;;;;;;;;;;;;;;
+PSYCHIATRIE -  ;;;;;;;;;;;;;;;;;;;;;;;;;;
+Idée / comportement suicidaire;AMU/SNP;;Patient en danger (risque imminent);Prise de médicaments;;Si pas de critère d'urgence, transfert 3114 ou SAS psy;;;;;;;;;;;;;;;;;;;;
+Pendaison très récente;AMU;;;;;;;;;;;;;;;;;;;;;;;;;
+"Troubles du comportement / 
+psychiatrie";AMU/SNP;;Patient en danger (risque imminent);Appel des forces de l'ordre/ enfant, agitation , violence;;Si pas de critère d'urgence;;;;;;;;;;;;;;;;;;;;
+"Anxiété / dépression / 
+consultation psychiatrique";AMU/ SNP;;;Appel des forces de l'ordre/enfant, agitation, violence;;Si pas de critère d'urgence;;;;;;;;;;;;;;;;;;;;
+NEUROLOGIE;;;;;;;;;;;;;;;;;;;;;;;;;;
+Altération de la conscience/coma;AMU;;;;;;;;;;;;;;;;;;;;;;;;;
+Déficit moteur, sensitif, sensoriel ou du langage/AVC;AMU/SNP;;délai ≤ 24h ou AVC du réveil;>24H;;;;;;;;;;;;;;;;;;;;;;
+Convulsions;AMU/SNP;;crises multiples ou en cours / contexte TC ou IMV, trouble de la conscience persistant;;récupération complète aux antécédents de convulsions, et appelants non affolés;;;;;;;;;;;;;;;;;;;;;
+Confusion ou désorientation temporo spatiale ;AMU/SNP;;contexte TC ;fièvre;<24H;>24H;;;;;;;;;;;;;;;;;;;;
+Céphalée;AMU/SNP;;intense d'apparition brutale ;inhabituelle  ou fébrile;Migraine connue;signes ORL associés (rhume, toux);;;;;;;;;;;;;;;;;;;;
+Vertiges/trouble de l'équilibre;AMU/SNP;;"signes neurologiques associés,
+céphalée brutale";;<24H;troubles anciens et stables, vertige habituel;;;;;;;;;;;;;;;;;;;;
+TRAUMATOLOGIE;;;;;;;;;;;;;;;;;;;;;;;;;;
+Traumatisme avec amputation;AMU;amputation de membre;en dessous du métacarpe ou du tarse;;;;;;;;;;;;;;;;;;;;;;;
+Ecrasement permanent d'un membre ou ou du tronc;AMU;;;;;;;;;;;;;;;;;;;;;;;;;
+Ensevelissement complet;AMU;;;;;;;;;;;;;;;;;;;;;;;;;
+Noyade récente;AMU;;;;;;;;;;;;;;;;;;;;;;;;;
+Traumatisme abdomen/thorax/cervical;AMU;Pénétrant (arme blanche, arme a feu, ...);Haute cinétique;Faible cinétique;;;;;;;;;;;;;;;;;;;;;;
+Brûlures;AMU/SNP;;étendue (> 20%) et/ou atteinte visage-cou-siège et/ou inhalation de fumées et ou brulure electrique et / ou chimiques /haut-voltage, enfant < 12 ans;;;Brulures moins de 1% et hors localisation (visage, cou et siège) coup de soleil ;;;;;;;;;;;;;;;;;;;;
+Traumatisme de bassin/hanche/fémur;AMU/SNP;;Haute cinétique ;; appel d'un soigant pour suspicion de fracture du col femoral non  hyperalgique ;suspicion de fracture du col femoral non hyperalgique;;;;;;;;;;;;;;;;;;;;
+Traumatisme du rachis;AMU;;décifit neuro associé;;;;;;;;;;;;;;;;;;;;;;;
+Traumatisme oculaire;AMU/SNP;;;Haute cinétique et,ou pénétrant ou signes associés;;Faible cinétique sans signe associé et gène limitée;;;;;;;;;;;;;;;;;;;;
+Traumatisme maxillo-facial/oreille;AMU/SNP;;;Haute cinétique et,ou pénétrant  ou signes associés;;Faible cinétique sans signe associé et gène limitée;;;;;;;;;;;;;;;;;;;;
+Plaie;AMU/SNP;Arme à feu ou arme blanche tête/cou/tronc;plaie délabrante, saignement actif non controlé par compression simple;plaie(s) large(s), complexe;<2 ans;;plaie > 24H ;;;;;;;;;;;;;;;;;;;
+"Traumatisme d'épaule 
+ou distal de membre";AMU/SNP;;;haute cinétique, grande déformation (évoquant une luxation), ouverture cutanée (évoquant une fracture ouverture);faible cinétique et impotence fonctionnelle (mobilisation ou marche non faisable) en dehors main et cheville;Faible cinétique sans impotence fonctionnelle ni de déformation;;;;;;;;;;;;;;;;;;;;
+Electrisation;"
+AMU";ACR, foudre;temps de contact prolongé, brulures associées, douleur thoracique;courant domestique sans signe associé;;;appel > 24h après exposition;;;;;;;;;;;;;;;;;;;
+Traumatisme crânien;AMU/SNP;;agitation, comportement inhabituelle, forte cinétique, coma; perte de connaissance initiale et traitement anticoagulant, <3 mois;;;;;;;;;;;;;;;;;;;;;;
+Accident de la circulation ;AMU/SNP;Haute cinétique (projection,ejection, défenestration >2 étages/6m...),piéton inerte,disproportion vehicules, machine agricole;;;Appel à postériori de l'accident et douleur de membres périphériques ( ex cheville, main);;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
